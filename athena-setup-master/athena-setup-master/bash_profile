@@ -1,0 +1,6 @@
+export http_proxy=http://proxy.ebiz.verizon.com
+export https_proxy=$http_proxy
+export HTTP_PROXY=$http_proxy
+export HTTPS_PROXY=$http_proxy
+export no_proxy=localhost,127.0.0.1,.verizon.com
+export NO_PROXY=$no_proxy
