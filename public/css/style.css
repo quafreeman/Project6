@@ -110,6 +110,7 @@ a:hover{
 .portfolio-index{
   margin: 0;
   padding: 10px 50px;
+  
 }
 
   .portfolio-index .thumbnail{
@@ -147,4 +148,13 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.portfolio-body{
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+body{
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }

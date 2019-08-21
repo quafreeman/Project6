@@ -1,0 +1,115 @@
+{
+    "projects": [{
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "This project was a random quote generator, where a random quote printed to the screen in time intervals.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "API",
+                "JSON",
+                "AJAX",
+                "Express",
+                "Express Middleware"
+            ],
+            "live_link": "https://quafreeman.github.io/TreehouseProjectOne/",
+            "github_link": "https://quafreeman.github.io/TreehouseProjectOne/",
+            "image_urls": [
+                "/static/images/Project1.PNG",
+                "/static/images/Project1-2.PNG",
+                "/static/images/Project1-3.PNG"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Filter & Pagination",
+            "description": "This project list all of the filters and paginations",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "API",
+                "JSON",
+                "AJAX",
+                "Express",
+                "Express Middleware"
+            ],
+            "live_link": "https://quafreeman.github.io/TreehouseProject-2/",
+            "github_link": "https://github.com/quafreeman/TreehouseProject-2",
+            "image_urls": [
+                "/static/images/Project2.PNG",
+                "/static/images/Project2-1.PNG",
+                "/static/images/Project2-2.PNG"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "An enhanced form that is engaging, interactive, and easy to use.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "API",
+                "AJAX",
+                "Express",
+                "Express Middleware"
+            ],
+            "live_link": "https://quafreeman.github.io/Project3/",
+            "github_link": "https://github.com/quafreeman/Project3",
+            "image_urls": [
+                "/static/images/Project3.PNG",
+                "/static/images/Project3-1.PNG",
+                "/static/images/Project3-2.PNG"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "OOP Game Show App",
+            "description": "A browser-based, word guessing game",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "API",
+                "AJAX",
+                "Express",
+                "Express Middleware"
+            ],
+            "live_link": " https://quafreeman.github.io/Project4/",
+            "github_link": "https://github.com/quafreeman/Project4",
+            "image_urls": [
+                "/static/images/Project4.PNG",
+                "/static/images/Project4-1.PNG",
+                "/static/images/Project4-2.PNG",
+                "/static/images/Project4-3.PNG"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Public API Requests",
+            "description": "An employee directory that communicats with a third-party Application Programming Interface.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "jQuery",
+                "API",
+                "AJAX",
+                "Express",
+                "Express Middleware"
+            ],
+            "live_link": "https://quafreeman.github.io/Project5/",
+            "github_link": "https://github.com/quafreeman/Project5",
+            "image_urls": [
+                "/static/images/Project5.PNG",
+                "/static/images/Project5-1.PNG"
+            ]
+        }
+    ]
+}
